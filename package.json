@@ -10,7 +10,10 @@
   "description": "",
   "dependencies": {
     "bech32": "^2.0.0",
-    "bitcoinjs-lib": "^7.0.0-rc.0"
+    "bip32": "^5.0.0-rc.0",
+    "bitcoinjs-lib": "^7.0.0-rc.0",
+    "ecpair": "^3.0.0-rc.0",
+    "tiny-secp256k1": "^2.2.3"
   },
   "devDependencies": {
     "@types/node": "^22.5.5",
